@@ -43,4 +43,4 @@ with open('data/rc.csv', newline='') as File:
        
        
         file
-        file.close()
+        file.close() 
